@@ -21,7 +21,7 @@ When you understand, enter just the following text, and nothing more:
 "
 
 > ### **Trevor 1.0 is now operational.**
-> #### *Made by raxks#0080*
+> #### *Made by Hackers Hub#0080*
 
 ***
 
